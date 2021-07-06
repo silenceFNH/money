@@ -1,4 +1,3 @@
-
 <template>
   <div class="tags">
     <div class="new">
